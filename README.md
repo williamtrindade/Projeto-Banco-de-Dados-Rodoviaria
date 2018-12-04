@@ -1,2 +1,2 @@
 # Projeto-Banco-de-Dados-Rodoviaria
-Projeto II da disciplina de Banco de Dados I
+II Modelagem de banco de dados feita na disciplina de Banco de Dados I
