@@ -1,2 +1,1 @@
 Na rodoviaria os usuarios nao podem comprar uma passagem se o onibus da mesma ja esta com suas poltronas todas ocupadas
-O motorista não pode dirigir mais de 2 vezes no mesmo dia
