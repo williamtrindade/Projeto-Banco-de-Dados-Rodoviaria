@@ -13,8 +13,7 @@ INSERT INTO MOTORISTA VALUES(4, '45657878787');
 INSERT INTO CIDADE VALUES(1, 'Sapucaia do SUl'), (2, 'Porto-Alegre'), (3, 'Pelotas'), (4, 'Santa Maria');
 
 -- ONIBUS --	
-INSERT INTO ONIBUS VALUES(1, 'ABC-1234', 3);
-
+-- onibus.txt
 -- PEDAGIO --		
 INSERT INTO PEDAGIO VALUES(1, 'BR-116', '431', 'Cristal', 11.40);
 
