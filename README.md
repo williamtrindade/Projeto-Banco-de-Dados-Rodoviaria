@@ -1,2 +1,3 @@
 # Projeto-Banco-de-Dados-Rodoviaria
-II Modelagem de banco de dados feita na disciplina de Banco de Dados I
+II Projeto da disciplina de Banco de Dados I  
+Modelagem de uma rodoviaria utilizando triggers
